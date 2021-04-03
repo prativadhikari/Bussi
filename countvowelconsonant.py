@@ -12,7 +12,7 @@ def main():
         else:
             consonants = consonants + 1
 
-    print("The word",(ask),"contains",(vowels),"vowels and",(consonants),"consonants")
+    print("Word",(ask),"contains",(vowels),"vowels and",(consonants),"Consonants")
 
 
 
